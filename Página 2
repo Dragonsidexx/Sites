@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página 2: pagprova0227Victor</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    line-height: 1.6;
+  }
+
+  .imagem {
+    max-width: 100%;
+    height: auto;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Meu Celular dos Sonhos</h1>
+  <p>Aqui estão algumas informações sobre o celular dos seus sonhos:</p>
+  <img class="imagem" src="https://example.com/seu-celular.jpg" alt="Celular dos Sonhos">
+  <p>Este é um smartphone incrível com uma tela grande, câmeras de alta resolução e uma bateria de longa duração. Ele possui um design elegante e é repleto de recursos inovadores.</p>
+  <h2>Vantagens:</h2>
+  <ul>
+    <li>Tela grande e nítida</li>
+    <li>Câmeras de alta resolução</li>
+    <li>Bateria de longa duração</li>
+    <li>Desempenho rápido e eficiente</li>
+    <li>Design elegante e moderno</li>
+  </ul>
+  <h2>Desvantagens:</h2>
+  <ul>
+    <li>Preço elevado</li>
+    <li>Memória limitada</li>
+    <li>Peso um pouco maior que a média</li>
+  </ul>
+
+<footer>
+<a button href="pagina1.html">Voltar para Página 1</a>
+<p>Victor Rego Muniz 2ºL</p>
+
+</div>
+</body>
+</html>
