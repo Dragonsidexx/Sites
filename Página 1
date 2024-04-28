@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pagina1: pagprova0127Victor</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    line-height: 1.6;
+  }
+
+  .imagem {
+    max-width: 500px;
+  }
+
+  .black-button {
+    background-color: black;
+    color: blue;
+    height: 50px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>História do Celular</h1>
+  <p>A história do celular é fascinante...</p>
+  <p>A evolução do celular ao longo das décadas é um exemplo notável de progresso tecnológico. Dos dispositivos volumosos dos anos 1980 aos smartphones multifuncionais de hoje, testemunhamos uma transformação extraordinária. Os primeiros celulares eram usados principalmente para chamadas, enquanto os smartphones modernos oferecem acesso à internet, câmeras de alta qualidade e uma variedade de aplicativos. Com a chegada da tecnologia digital e da conectividade móvel, os celulares se tornaram indispensáveis em nossas vidas diárias. Espera-se que continuem a evoluir, integrando-se ainda mais à nossa rotina com avanços em áreas como inteligência artificial e conectividade 5G.</p>
+  <img class="imagem" src="https://s2-techtudo.glbimg.com/woblKxHOoruLn8SH-hq5jWNaRo4=/0x0:500x268/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/G/r/vr4wK8TnuRHvbPAnSKuA/2012-05-21-timeline.jpg" alt="Evolução">
+  <p>Na história do celular, podemos identificar várias etapas de evolução:</p>
+  <ul>
+    <li><strong>1. Telefones Fixos:</strong> Os primeiros telefones eram dispositivos fixos com fios, com pouca mobilidade. 
+    <br><img class="imagem" src="https://a-static.mlcdn.com.br/450x450/telefone-antigo-retro-de-parede-em-madeira-e-metal/liskoindustiraecomercioeireli/6841280147/64bea3a31282fa6f6730159b85f3d623.jpg"></li>
+    <li><strong>2. Telefones Móveis Analógicos:</strong> Surgiram os primeiros telefones móveis, utilizando tecnologia analógica. Eram grandes e pesados, com bateria limitada. <img class="imagem" src="https://thumbs.dreamstime.com/b/telefone-celular-anal%C3%B3gico-cl%C3%A1ssico-dos-anos-de-imagem-com-flip-mouthlice-antena-fict%C3%ADcia-e-ecr%C3%A3-led-era-inovador-tend%C3%AAncia-164064222.jpg"></li>
+    <li><strong>3. Telefones Móveis Digitais:</strong> A transição para a tecnologia digital permitiu telefones menores e mais eficientes. <img class="imagem" src="https://ogimg.infoglobo.com.br/in/2953484-f87-9ac/FT1086A/O-celular-LG-GW550H-tem-camera-3.2MP-3G-Wi-fi-Teclado-Qwerty-e-Windows-MobileDivulgacao.jpg"></li>
+    <li><strong>4. Surgimento dos Smartphones:</strong> A introdução dos smartphones revolucionou a indústria, oferecendo funcionalidades como internet, câmeras e aplicativos. <img class="imagem" src="https://segredosdomundo.r7.com/wp-content/uploads/2021/08/primeiro-smartphone-origem-historia-e-curiosidades-2.jpg"></li>
+    <li><strong>5. Era dos Smartphones Avançados:</strong> Atualmente, estamos na era dos smartphones avançados, com recursos como inteligência artificial, realidade aumentada e conectividade 5G. <img class="imagem" src="https://s.zst.com.br/cms-assets/2023/10/capa-melhor-celular-6gb-ram.webp"></li>
+  </ul>
+
+  <footer>
+  </footer>
+</div>
+
+<a href="Página2" class="black-button" target="_blank">Página 2</a>
+
+</body>
+</html>
